@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "GATSBY_DISQUS_NAME": "tko-on"
+    }
+  }
+}
