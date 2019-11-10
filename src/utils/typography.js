@@ -6,12 +6,17 @@ Wordpress2016.overrideThemeStyles = () => {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
     },
+    "dfn": {
+      borderBottom: `3px double`
+    }
   }
 }
 
 delete Wordpress2016.googleFonts
 
-const typography = new Typography(Wordpress2016)
+const typography = new Typography({
+  ...Wordpress2016,
+})
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {

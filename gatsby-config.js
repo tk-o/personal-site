@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `TKO on software`,
     author: `Tomasz Kopacki`,
-    description: `Sharing my prespective in blog posts, code snippets and screencats.`,
-    siteUrl: `https://kopacki.net`,
+    description: `Sharing my prespective on creating value in blog posts, code snippets and screencats.`,
+    siteUrl: `https://www.kopacki.net`,
     social: {
       twitter: `tomasz_kopacki`,
     },
@@ -74,5 +74,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    `gatsby-plugin-sitemap`,
   ],
 }
