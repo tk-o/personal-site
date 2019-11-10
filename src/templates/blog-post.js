@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 import { DiscussionEmbed } from 'disqus-react'
+import Img from 'gatsby-image'
 
 import Bio from '../components/bio'
 import Layout from '../components/layout'
@@ -22,6 +23,7 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
+          featuredImage={post.frontmatter.featuredImage}
         />
         <article>
           <header>
@@ -42,6 +44,12 @@ class BlogPostTemplate extends React.Component {
             >
               {post.frontmatter.date}
             </p>
+            {post.frontmatter.featuredImage && (
+              <Img
+                fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
+                alt={post.frontmatter.featuredImageDescription || ''}
+              />
+            )}
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr
@@ -99,10 +107,19 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      timeToRead
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        featuredImageDescription
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

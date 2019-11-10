@@ -5,12 +5,12 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React from "react"
-import PropTypes from "prop-types"
-import Helmet from "react-helmet"
-import { useStaticQuery, graphql } from "gatsby"
+import React from 'react'
+import PropTypes from 'prop-types'
+import Helmet from 'react-helmet'
+import { useStaticQuery, graphql } from 'gatsby'
 
-function SEO({ description, lang, meta, title }) {
+function SEO({ description, lang, meta, title, featuredImage }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -19,6 +19,7 @@ function SEO({ description, lang, meta, title }) {
             title
             description
             author
+            siteUrl
           }
         }
       }
@@ -26,6 +27,52 @@ function SEO({ description, lang, meta, title }) {
   )
 
   const metaDescription = description || site.siteMetadata.description
+  const siteUrl = site.siteMetadata.siteUrl || '';
+  const ogImage = featuredImage ? siteUrl + featuredImage.childImageSharp.fluid.src : null
+  const allMeta = [
+    {
+      name: `description`,
+      content: metaDescription,
+    },
+    {
+      property: `og:title`,
+      content: title,
+    },
+    {
+      property: `og:description`,
+      content: metaDescription,
+    },
+    {
+      property: `og:type`,
+      content: `website`,
+    },
+    {
+      name: `twitter:card`,
+      content: `summary`,
+    },
+    {
+      name: `twitter:creator`,
+      content: site.siteMetadata.author,
+    },
+    {
+      name: `twitter:title`,
+      content: title,
+    },
+    {
+      name: `twitter:description`,
+      content: metaDescription,
+    },
+  ].concat(meta)
+
+  if (ogImage) {
+    allMeta.push({
+      name: `twitter:image`,
+      content: ogImage,
+    }, {
+      name: `og:image`,
+      content: ogImage,
+    });
+  }
 
   return (
     <Helmet
@@ -34,40 +81,7 @@ function SEO({ description, lang, meta, title }) {
       }}
       title={title}
       titleTemplate={`%s — ${site.siteMetadata.title}`}
-      meta={[
-        {
-          name: `description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:title`,
-          content: title,
-        },
-        {
-          property: `og:description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:type`,
-          content: `website`,
-        },
-        {
-          name: `twitter:card`,
-          content: `summary`,
-        },
-        {
-          name: `twitter:creator`,
-          content: site.siteMetadata.author,
-        },
-        {
-          name: `twitter:title`,
-          content: title,
-        },
-        {
-          name: `twitter:description`,
-          content: metaDescription,
-        },
-      ].concat(meta)}
+      meta={allMeta}
     />
   )
 }

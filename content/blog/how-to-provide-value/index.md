@@ -2,9 +2,9 @@
 title: What is value and how to provide it?
 date: 2019-11-09T10:01:07.341Z
 description: You can be successful in whatever you do, until it produces value for someone.
+featuredImage: ./stanislav-kondratiev-MdexOj4D-MU-unsplash.jpg
+featuredImageDescription: A plant growing on desert - a symbol of making someting out of nothig
 ---
-
-<img src="./stanislav-kondratiev-MdexOj4D-MU-unsplash.jpg" alt="A plant growing on desert" title="Growth">
 
 ## tl;dr
 You can always skip some parts, go on the fast-track, but then you won't know what you missed in between 🙃
