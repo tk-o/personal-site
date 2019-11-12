@@ -1,0 +1,9 @@
+.newsletter-form {
+  border: 1px solid red;
+  display: flex;
+  flex-basis: 50%;
+}
+
+.newsletter-form__box {
+  width: 50%;
+}

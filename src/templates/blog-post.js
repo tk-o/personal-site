@@ -6,6 +6,7 @@ import Img from 'gatsby-image'
 import Bio from '../components/bio'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
+import Newsletter from '../components/newsletter'
 import { rhythm, scale } from '../utils/typography'
 
 class BlogPostTemplate extends React.Component {
@@ -84,6 +85,7 @@ class BlogPostTemplate extends React.Component {
                 </li>
               </ul>
             </nav>
+            <Newsletter />
             <Bio />
             <DiscussionEmbed {...disqusConfig} />
           </footer>
