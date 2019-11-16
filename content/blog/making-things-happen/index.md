@@ -1,7 +1,7 @@
 ---
 title: Making things happen
 date: 2019-11-16
-description: Your ideas are great, but your actions are better. Stop only imaging, start creating. One step at a time - always make sure to make it.
+description: Your ideas are great, but your actions are better. Stop only imaging, start acting. One step at a time — just don't forget to make it.
 featuredImage: ./will-o-GtYFwFrFbMA-unsplash.jpg
 featuredImageDescription: A yellow and blue hot air balloon getting ready for a flight at daytime
 ---
@@ -53,7 +53,7 @@ Every single goal that you've ever imagined also got you wondering on how you co
 
 Everyone has their goals. You have them too, and it's a good thing!
 
-Although, **many of these goals are stuck in your head**, aren't they? It may not be true for you, but **that was my case for a very long time**.
+Although, **many of these goals are only in your head**, aren't they? It may not be true for you, but **that was my case for a very long time**.
 
 <Img src="./thien-phu-pham-6hzvSb7_76E-unsplash.jpg" alt="A cat sleeping in a comfortable position" />
 
@@ -71,9 +71,11 @@ Letting feelings to drive actions is a risky strategy. Most of the time, you'll 
 
 Remember this: **being afraid of acting will give you no results that you could be proud of**.
 
-## Making future
+## Creating future
 
-All the amazing ideas and goals are virtual until you start making them real. Easier said than done, isn't it? Well, maybe. But for sure it's possible, and I'm going to give you a few examples on how to start **making things happen**!
+All the amazing ideas and goals are virtual until you start making them real. Easier said than done, isn't it? Well, maybe. But for sure it's possible, and I'm going to give you a few examples on how to start **making things happen**! It's all about growing and providing value to others. Speaking of value, make sure to <a href="/how-to-provide-value/">learn what it is, why and how you could create it</a>.
+
+**Either you change the future, or the future will change you.**
 
 <Img src="./tobias-tullius-v3tdjQVh8Eg-unsplash.jpg" alt="A hand tring to reach new level on a stone wall">
 
@@ -97,9 +99,9 @@ This is the mindset of a person who executes their plan. You have an idea. Then 
 
 ### Let actions drive feelings
 
-I'll use — once again — my blog, for example. I had this dream of being able to share my experience with other people because I believe it could help some of them to develop their skills. Once I decided I'm done with waiting for a perfect moment, I created the blog and wrote <a href="/welcome-friend/">Welcome, friend!</a> post. I've actually got some audience that read the post and told me to keep posts coming as they find these useful.
+I'll use — once again — my blog, for example. I had this dream of being able to share my experience with other people because I believe it could help some of them to develop their skills. Once I decided I'm done with waiting for a perfect moment, I created the blog and wrote <a href="/welcome-friend/">Welcome, friend!</a> post. I didn't know yet if anyone would consider my text interesting, but I wanted to find out.
 
-Since the first post, I stopped being worried about sharing my personal views. Instead, I started focusing on the results: my blog is a platform I use to share my experience with other people. I turned out that trying my idea for real wasn't impossible.
+Since the first post, I stopped being worried about sharing my personal views. Instead, I started focusing on the results: my blog is a platform I use to share my experience with other people. It turned out that trying my idea for real wasn't impossible.
 
 What's even better, some people read what I share, and they like it. Sometimes they also tell me that they enjoyed the article and it helped them. **This is all I wanted!** But to make it happen, I had to start acting, which wasn't that hard and scary after all 🙃 I'm working on improving my platform and provide more ways of leaving feedback.
 
@@ -115,3 +117,4 @@ Remember: **being ready to learn from actions will definitely give you results t
 3. Taking notes allows you to see a bigger picture of your mind.
 4. Have a starting plan and execute it step by step.
 5. Look for feedback to improve your plan.
+6. **Either you change the future, or the future will change you.**
