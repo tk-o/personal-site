@@ -32,7 +32,7 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <h3
+        <strong
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
@@ -48,7 +48,7 @@ class Layout extends React.Component {
           >
             &laquo; {title}
           </Link>
-        </h3>
+        </strong>
       )
     }
     return (

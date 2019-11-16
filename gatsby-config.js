@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `TKO on software`,
+    title: `Create value with TKO`,
     author: `Tomasz Kopacki`,
-    description: `Sharing my prespective on creating value in blog posts, code snippets and screencats.`,
+    description: `Learn how to create value and make life easier for yourself. Increase your skillset and start making money from being more productive.`,
     siteUrl: `https://www.kopacki.net`,
     social: {
       twitter: `tomasz_kopacki`,

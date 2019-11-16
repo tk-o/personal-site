@@ -40,9 +40,10 @@ class BlogPostTemplate extends React.Component {
                 ...scale(-1 / 5),
                 display: `block`,
                 marginBottom: rhythm(1),
+                marginTop: rhythm(0.25),
               }}
             >
-              {post.frontmatter.date}
+              Last updated: {post.frontmatter.date} | Time to read: {post.timeToRead} minutes
             </p>
             {post.frontmatter.featuredImage && (
               <Img

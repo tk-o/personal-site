@@ -80,7 +80,7 @@ function SEO({ description, lang, meta, title, featuredImage }) {
         lang,
       }}
       title={title}
-      titleTemplate={`%s — ${site.siteMetadata.title}`}
+      titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={allMeta}
     />
   )
