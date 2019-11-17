@@ -49,6 +49,7 @@ class BlogPostTemplate extends React.Component {
               <Img
                 fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
                 alt={post.frontmatter.featuredImageDescription || ''}
+                critical={true}
               />
             )}
           </header>
@@ -117,7 +118,7 @@ export const pageQuery = graphql`
         featuredImage {
           childImageSharp {
             fluid(maxWidth: 800) {
-              ...GatsbyImageSharpFluid
+              ...GatsbyImageSharpFluid_noBase64
             }
           }
         }
