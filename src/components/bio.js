@@ -71,9 +71,8 @@ const Bio = () => {
         >
           <strong>{author}</strong>
         </a>{' '}
-        👋 I live and work in Sydney creating{' '}
-        <strong>quality web systems</strong>. I'm also{' '}
-        <strong>investing in capital markets</strong>.
+        👋 I live and work in Sydney.<br /> Have been creating{' '}
+        <strong>web systems</strong> since 2006.
       </p>
     </div>
   )
