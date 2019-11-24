@@ -7,26 +7,31 @@ featuredImageDescription: Architectural photo of gray and black building
 ---
 
 ## Chasing perfection
-I may not know you, but I’m going to make a guess about you: you tend to be a perfectionist and you don’t even think about it.
+I may not know you, but I’m going to make a guess about you: You tend to be a perfectionist, and you don’t even think about it.
 
-I don’t mean to sound assuming (or oafish!). I’m in part reflecting on my own experience – I’ve been perfectionist in many situations, myself.
+I don’t mean to sound assuming (or oafish!). I’m in part reflecting on my own experience – I’ve been a perfectionist in many situations, myself.
 
-In my case it happens always when I deeply care about making something important (at least from my point of view). It has to be A-ok, as I really want it to be successfull. I have all these great feelings, things go well in my mind. And then nothing happens; literally.
+In my case, it always happens when I genuinely care about making something important (at least from my point of view). It has to be A-ok, as I wanted it to be successful. I had all these great feelings; things went well in my mind. And then nothing was happening, literally.
 
-Example? Here you go: each time I start wondering about a new initiative I tend to overthink, while actually not doing anything for real. Can you imagine how many times I was trying to create a space where I could share my experience and knowdlege with other people? More than a dozen! And it took all these domain names I bought so far for every single attempt 😎 I used to always stop at this point, as I couldn't decide on how to continue, what to share and with whom. Having a domain name everything I could achieve, back in the day. And nothing else was there. Oh, plus the domain name registration fees 🙃
+I used to often think about the spot I'd like to be in. The blurry image of that spot was driving me while I'd been setting my goals. Now I understand it was a terrible approach. Now I’d instead do something and let it turn out to be wrong, instead of just waiting and ruminating.
 
-Another case, this time from my professional life. I've been working as a software engineer since 2006. All the time I was trying to re-create the functionality using better technology, better techinques and making it better to use. At least I thought so. In many situations the outcomes were not that significant as I wanted them do be. This is because I was focused on improving things that were already good. They'd been working well, before I even stared making my improvements. This is an excellent example of trying to make something perfect instead of moving on to the next challange.
+### Examples? Here you go!
+Each time I started wondering about a new initiative, I tended to overthink, while not doing anything for real. Can you imagine how many times I was trying to create a space where I could share my experience and knowledge with other people? More than a dozen! And it took all these domain names I bought so far for every single attempt 😎 I used to always stop at this point, as I couldn't decide on how to continue, what to share and with whom. Having a domain name everything I could achieve, back in the day. And nothing else was there. Oh, there was something else: the domain name registration fees 🙃
+
+Another case, this time from my professional life. I've been working as a software engineer since 2006. All the time, I was trying to re-create the functionality using better technology, improved techniques, and making it easier to use. At least I thought so. In many situations, the outcomes were not that significant as I wanted them do be. It's because I was focusing on improving things that were already good. They’d been working well before I even started making my improvements. It is an excellent example of trying to make something perfect instead of moving on to the next challenge.
 
 I hope the examples above helped you to understand where I come from. I feel these hard times are gone for me now! Furthers, I'll describe what I learnt over all these years on how to deal with keeping a comfortable balance between the expectations and the outcomes.
 
+<Img src="./ian-dooley-iw0azE27IOo-unsplash.jpg" alt="low-angle photography of white and red basketball hoop">
+
 ### Setting the bar (too) high
 
-Let me justify what I said in the very first paragraph:
-> you tend to be a perfectionist and you don’t even think about it
+Let me be more objective and justify what I said in the very first paragraph:
+> You tend to be a perfectionist, and you don’t even think about it
 
-I based my assumpion on <strong>Multidimensional Perfectionism Scale</strong> (MPS; variants: [MPS I](http://www.sjdm.org/dmidi/Multidimensional_Perfectionism_Scale_I.html), [MPS II](http://www.sjdm.org/dmidi/Multidimensional_Perfectionism_Scale_II.html)).
+I based my assumption on the <strong>Multidimensional Perfectionism Scale</strong> (MPS; variants: [MPS I](http://www.sjdm.org/dmidi/Multidimensional_Perfectionism_Scale_I.html), [MPS II](http://www.sjdm.org/dmidi/Multidimensional_Perfectionism_Scale_II.html)).
 
-I'd like to use [_MPS II_ sub-scales](http://dl.motamem.org/Hewitt-Flett-Perfectionism-Scale-MPS.doc) so you could evaluate yourself if you've ever been a perfectionist. Below are a few examples (groupped by a sub-scale) of a perfectionsit thinking.
+Here's the [_MPS II_ sub-scales form](./Hewitt-Flett-Perfectionism-Scale-MPS.doc.pdf), feel free to use it to evaluate yourself and see if you've ever been a perfectionist. Below are a few examples (grouped by a sub-scale) of too-perfect thinking.
 
 #### self-oriented perfectionism
 - When I am working on something, I cannot relax until it is perfect
@@ -43,25 +48,36 @@ I'd like to use [_MPS II_ sub-scales](http://dl.motamem.org/Hewitt-Flett-Perfect
 - Anything that I do that is less than excellent will be seen as poor work by those around me
 - People expect nothing less than perfection from me
 
-### My evaluation based on [_MPS II_](http://dl.motamem.org/Hewitt-Flett-Perfectionism-Scale-MPS.doc)
-I discovered that I've shifted from matching _self-oriented perfectionism_ characteristic to _socially prescribed perfectionism_ one. I'm more relaxed when it comes to what I expect from myself when there's no external pressue. However, while seeing how my environment react on the outcomes of my actions, I feel motivated to be perfect and present better results 😱
+### My evaluation based on [_MPS II_ scales](./Hewitt-Flett-Perfectionism-Scale-MPS.doc.pdf)
+I discovered that I've shifted from matching **self-oriented perfectionism** characteristic to **socially prescribed perfectionism** one. It's more likely for me to relax when it comes to what I'm expecting from myself when there's no external pressure. However, while seeing how my environment reacts to the outcomes of my actions, I feel a need to become perfect and present better results 😱
 
-Wow! Writing a post and finding out about such facts – it's intense! 
+> Wow! Writing a post and finding out about such facts – it's intense! 
+
+While I'm a perfectionist in some ways, I don't want to feel blocked by that fact.
 
 ## Good enough is OK
 
 I wouldn't say that it's possible to stop being a perfectionist entirely. But it's possible to learn how to minimize the negative side of perfectionism.
 
-As I discovered before, there's always some kind of force driving your actions. It's either you, the people you care of, or your environemnt. What I think, is most important here, is finding a balance among these three forces. I'll tell you now, what's my take on that!
+As I discovered before, there's always some force driving your actions. It's either you, the people you care of, or your environment. What I think is most important here, is finding a balance among these three forces. I'll tell you now, what's my take on that!
 
 ### It doesn't have to be crazy
-This is very personal question to ask: what really makes one happy? In my case, the answer is:
-> spending time on things that I find valuable, and reduce the time I spend on something not relevant to me.
+There's a very personal question to ask: what really makes one happy? In my case, the answer is:
+> Spending time on things that I find valuable and reduce the time I spend on something not relevant to me.
 
-As I mostly do things that I like (I'm really lucky I'm able to!), I'd rather focus on minimizing the presence of an irrelevant things happening around me.
+As I mostly do things that I like (I’m fortunate I’m able to!), I’d instead focus on minimizing the presence of irrelevant things happening around me.
 
 #### Only important is what's important
 
-In my personal life, what I think works really well for me is not watching TV. I find it only stealing the time. Once you think about it: when was the last time you learnt about anything useful in day to day life from the TV? The time I save on not watching the TV can be spent on learning about communication, psychology and other topics that currently fascinate me. Another thing that I'd rather exchange the TV time for is body-weight workout. It helps to stop thinking and start breathing. When the body is occupied, the mind can relax - and vice-versa!
+In my personal life, what I think works well for me is not watching TV. I find it only stealing the time. Once you think about it: when was the last time you learnt about anything useful in day to day life from the TV? The time I save on not watching the TV can be spent on learning about communication, psychology and other topics that currently fascinate me. Another thing that I’d exchange the TV time for is a body-weight workout. It helps to stop thinking and start breathing. When the body is occupied, the mind can relax - and vice-versa!
 
-#### Last 10%
+<Img src="./stefan-stefancik-jyeSAci8bTw-unsplash.jpg" alt="Man relaxing while floating on water near the rocks">
+
+### 80/20
+No, it won't be about the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle). I'd like to share my favourite principle: **80/20 by TKO** 🙃
+
+> If you feel you’re facing some hard-to-achieve challenge, try thinking on how to break it into smaller, actionable tasks. Then, aim to complete 80% of the most critical tasks. The remaining 20% either will not be that relevant (and you’ll do them later) or turn out to be not required anymore.
+
+An excellent example of this principle is its application on eating habits. I used to eat a lot and didn’t care about what I was eating. From time to time, I had this reflection: what if I started eating healthier? The **self-oriented perfectionism** had me thinking. Whenever I wanted to go on a diet to lose some weight, I had to eat things I didn’t like, at the time of the day that didn’t suit me. And guess what? I was never successful: a few days were passing; that was it. Because it'd been easy for me to put on weight, I still wanted to somehow be on a diet but didn't want to feel forced to do it. **What worked for me was to allow myself for 20% of junk food, while 80% was for healthy meals.** I've been eating like this for more than three years, and I must admit, it feels easy now. There's still room for comfort food, but it's not that huge one as it used to be.
+
+The very same rule helps me in my professional life. Over the years, I was working on anything that was assigned as my task. I didn't think if it was something I was curious about or not. Although, it seemed professional – and now I know it was driven by my environment (**socially prescribed perfectionism**) – I started getting bored by my job. I was simply interested in other areas of web development than I was working on. Everything improved when I learnt **to say no**. It doesn't mean that I stopped doing my job! I simply started talking about things that keep me interested as these are the ones I'm most experienced with. It turned out great! Still, most of the tasks (roughly 70-80%) are related to business goals, and I have to work on them. However, I also get the freedom to investigate more exciting areas and expand my horizons. That's precisely a bare minimum of 20% that helps me to keep the balance between what's required and what's pleasant.
