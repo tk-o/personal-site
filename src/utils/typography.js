@@ -9,7 +9,7 @@ Wordpress2016.overrideThemeStyles = () => {
     dfn: {
       borderBottom: `3px double`,
     },
-    main: {
+    'main p': {
       textAlign: `justify`,
     },
   }
