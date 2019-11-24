@@ -9,7 +9,7 @@ featuredImageDescription: Architectural photo of gray and black building
 ## Chasing perfection
 I may not know you, but I’m going to make a guess about you: You tend to be a perfectionist, and you don’t even think about it.
 
-I don’t mean to sound assuming (or oafish!). I’m in part reflecting on my own experience – I’ve been a perfectionist in many situations, myself.
+I don’t mean to sound assuming. I’m in part reflecting on my own experience – I’ve been a perfectionist in many situations, myself.
 
 In my case, it always happens when I genuinely care about making something important (at least from my point of view). It has to be A-ok, as I wanted it to be successful. I had all these great feelings; things went well in my mind. And then nothing was happening, literally.
 
