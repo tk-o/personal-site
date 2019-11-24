@@ -18,6 +18,8 @@ I used to often think about a specific situation I'd like to be in. The blurry i
 ### Examples? Here you go!
 Each time I started wondering about a new initiative, I tended to overthink, while not doing anything for real. Can you imagine how many times I was trying to create a space where I could share my experience and knowledge with other people? More than a dozen! And it took all these domain names I bought so far for every single attempt. I used to always stop at this point, as **I couldn't decide on how to continue, what to share and with whom**. I had to keep thinking while I was worried about making the next steps. It turned out having a domain name was everything I could achieve, back in the day. And there was nothing else. Oh, maybe except the domain name registration fees 🙃If I felt less insecure about sharing my thoughts publicly, I'd be running this blog for a few years now.
 
+I also need to metion about me having too high expectations when it comes to my closest family and friends. It's always easy to criticize someone else's decisions. Whenever I saw them being OK with second-best choice I had been thinking: "Why on Earth they didn't want to try what's the best?!". I want only the best for the people that I care about. It won't change. But what I'm able to improve is how I let them know that there's something more out there they could consider reaching for!
+
 Another case, this time from my professional life. I've been working as a software engineer since 2006. All the time, I was trying to re-create the functionality using better technology, improved techniques, and making it easier to use. At least I thought so. In many situations, the outcomes were not that significant as I wanted them do be. It's because I was focusing on improving things that were already good. They’d been working well before I even started making my improvements. It is an excellent example of trying to make something perfect instead of moving on to the next challenge.
 
 I hope the examples above helped you to understand where I come from. I feel these hard times are gone for me now! Further, I'll describe what I learnt over all these years on how to deal with keeping a comfortable balance between the expectations and the outcomes.
@@ -49,9 +51,7 @@ Here's the [_MPS II_ sub-scales form](https://docs.google.com/spreadsheets/d/1cl
 - People expect nothing less than perfection from me
 
 ### My evaluation based on [_MPS II_ scales](https://docs.google.com/spreadsheets/d/1clhq6LUw9-D4xcAicPbG9q5i2CauY3nCbutBSdRCZas/edit?usp=sharing)
-I discovered that I've shifted from matching **self-oriented perfectionism** characteristic to **socially prescribed perfectionism** one. It's more likely for me to relax when it comes to what I'm expecting from myself when there's no external pressure. However, while seeing how my environment reacts to the outcomes of my actions, I feel a need to become perfect and present better results 😱
-
-> Wow! Writing a post and finding out about such facts – it's intense! 
+I discovered that I've shifted from matching **self-oriented perfectionism** characteristic to **socially prescribed perfectionism** one. It's more likely for me to relax when it comes to what I'm expecting from myself when there's no external pressure. However, while seeing how my environment reacts to the outcomes of my actions, I feel a need to become perfect and present better results 😱 Wow! Writing a post and finding out about such facts – it's intense! 
 
 While I'm a perfectionist in some ways, I don't want to feel blocked by that fact.
 
@@ -69,9 +69,9 @@ As I mostly do things that I like (I’m fortunate I’m able to!), I’d instea
 
 #### Only important is what's important
 
-There's a simple way to prioritize tasks/activities in a given context (personal, project, etc.), use [the MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method). It has been designed for project management, but I believe it can be applied almost anywhere (unless it can't be thought as if it was a project).
+There's a simple way to prioritize tasks/activities in a given context (personal, project, etc.), use [the MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method). It has been designed for project management, but I believe it can be applied almost anywhere (unless it can't be translated a project-like concept).
 
-In my personal life, what I think works well for me is not watching TV (my _Won't have_). I find it only stealing the time. Once you think about it: when was the last time you learnt about anything useful in day to day life from the TV? The time I save on not watching the TV can be spent on learning about communication, psychology and other topics that currently fascinate me. Another thing that I’d exchange the TV time for is a body-weight workout. It helps to stop thinking and start breathing (my _Must Have_). When the body is occupied, the mind can relax - and vice-versa!
+In my personal life, what I think works well for me is not watching TV (my **Won't have**). I find it only stealing the time. Once you think about it: when was the last time you learnt about anything useful in day to day life from the TV? The time I save on not watching the TV can be spent on learning about communication, psychology (both are my **Should have**) and other topics (my **Could have**) that currently fascinate me. Another thing that I’d exchange the TV time for is a body-weight workout. It helps to stop thinking and start breathing (my **Must Have**). When the body is occupied, the mind can relax - and vice-versa!
 
 <Img src="./stefan-stefancik-jyeSAci8bTw-unsplash.jpg" alt="Man relaxing while floating on water near the rocks">
 
