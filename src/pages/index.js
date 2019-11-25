@@ -30,7 +30,7 @@ class BlogIndex extends React.Component {
                     {title} &raquo; 
                   </Link>
                 </h3>
-                <small>{node.frontmatter.date}</small>
+                <small>Last updated: {node.frontmatter.date} | Time to read: {node.timeToRead} minutes</small>
               </header>
               <section>
                 <p
@@ -63,6 +63,7 @@ export const pageQuery = graphql`
           fields {
             slug
           }
+          timeToRead
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
