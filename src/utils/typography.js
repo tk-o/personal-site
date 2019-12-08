@@ -4,7 +4,8 @@ import Wordpress2016 from 'typography-theme-wordpress-2016'
 Wordpress2016.overrideThemeStyles = () => {
   return {
     '.highlight': {
-      backgroundColor: '#fff8dc'
+      backgroundColor: '#6de4ff',//'#5ee2bd',
+      padding: '0.125rem 0',
     },
     'a.gatsby-resp-image-link': {
       boxShadow: `none`,
