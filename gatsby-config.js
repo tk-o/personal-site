@@ -63,7 +63,7 @@ module.exports = {
         short_name: `TKO Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#d93337`,
+        theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/tko-logo.png`,
       },
