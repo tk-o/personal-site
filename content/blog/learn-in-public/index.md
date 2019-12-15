@@ -43,7 +43,9 @@ There are a few steps before sharing my learnings in public. I follow them to ma
 
 <Img src="./the-learn-in-public-cycle.png" alt="Learn in public cycle">
 
-Staying in that cycle helps me to practice my creativity. There's an interesting quote that I read the other day:
+Staying in that cycle helps me to practice my creativity. I don't always make all the steps in a single cycle. Also, I often swap **Reflection** with **Go live**. It happens when I'm excited about something, or I need to do it quickly. Then, I act first and ask the questions later. But that's OK, there are plenty of cycles to make all the steps the right way.
+
+There's an interesting quote that I read the other day:
 
 >>> Creativity is the brain's invisible muscle.
 
