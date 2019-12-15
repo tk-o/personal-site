@@ -8,7 +8,7 @@ featuredImageDescription: People taking notes together
 
 ### Story of my life
 
-I just reminded myself about something from I saw in my junior-high-school times. It was a sentence written on a wall in one of the classrooms. It went like this:
+I just reminded myself about something I used to see in my junior-high-school times. It was a sentence written on a wall in one of the classrooms. It went like this:
 >>> I hear, and I forget. I see, and I know. I do, and I understand.
 
 Well, this is so self-explaining sentence! It's easy to hear and then forget about it. Once you read it, you think you know what it means. But only after many attempts of trying various things, you start to understand what it's been about all that time: **DOING**.
@@ -25,7 +25,7 @@ Time to walk through that exciting topic 🚀
 ### Learn in public
 I first read about it at [Swyx's site](https://www.swyx.io/writing/learn-in-public). Long story short: it's about being a knowledge multiplier (more details on the linked page). Anytime you find a new piece of information, you can pass it along. I think we can extend that summary here. You can also add your own interpretation and create unique content, an improved version of the original knowledge. I really like this part ⚡️ That's how innovation begins.
 
-Great! Now it's time to talk about being a teacher. You want to teach someone the knowledge and experience you have, right? 🙃 But how to teach anyone if you're not really a teacher? Here's the thing that comes for free in the on-line world. <em class="highlight">If you make your findings (notes, code snippets, blog posts, etc.) **public** on the Internet, everyone looking for such piece of information has their chance to see it, and learn from it!</em> Congrats, you're a teacher now, but you don't know your class yet 😎 On a serious note, whatever is shared publically, people can find. Sometimes they learn from it, and it helps them solve their problem. Just give them that opportunity to be your class (<abbr title="also known as">a.k.a.</abbr> audience).
+Great! You want to pass the knowledge and experience you have on to somebody, right? But how to teach anyone if you're not really a teacher? Here's the thing that comes for free in the on-line world. <em class="highlight">If you make your findings (notes, code snippets, blog posts, etc.) **public** on the Internet, everyone looking for such piece of information has their chance to see it, and learn from it!</em> Congrats, you're a teacher now, but you don't know your class yet 😎 On a serious note, whatever is shared publically, people can find. Sometimes they learn from it, and it helps them solve their problem. Just give them that opportunity to be your class (<abbr title="also known as">a.k.a.</abbr> audience).
 
 #### Downsides
 Not everything is great, though. Getting your ideas public can be scary (at least at the beginning). It was also my case. But hey, that's what I wanted to happen after all. I wanted to [provide value](/how-to-provide-value/) and see if anyone needs it. 😎
@@ -36,10 +36,10 @@ Not everything is great, though. Getting your ideas public can be scary (at leas
 I cannot agree more! I know that I keep learning systematically. That's the way I live. My area of interest keeps changing over time. I start learning about the topics I have no clue about, but it doesn’t change my attitude.
 
 #### I did it before... an old-school way
-I'd been learning in public, while I was a student. Great times! Here's how it looked like. I graduated from university after studying for 5 years. Over that time, I had to take many exams. Some of them were easier, and some of them were almost impossible to pass. And yet, I made it! 🙃 A secret behind these harder ones was to meet as a group with my folks and prepare together. We were sitting in one room, going through exercises our lecturer shared for the students to prepare. Noone had all the answers. But together, we were able to solve the problems and get the right level of understanding about the particular solution. We were looking for information, solving problems, discussing the solutions and sharing among each other. This way, we all made it through these years!
+I'd been learning in public, while I was a student. Great times! Here's how it looked like. I graduated from university after studying for 5 years. Over that time, I had to take many exams. Some of them were easier, and some of them were almost impossible to pass. And yet, I made it! 🙃 A secret behind these harder ones was to meet as a group with my folks and prepare together. We were sitting in one room, going through exercises our lecturer shared for the students to prepare. Noone had all the answers. But together, we were able to solve the problems and get the right level of understanding about the particular solution. <em class="highlight">We were looking for information, solving problems, discussing the solutions and sharing among each other.</em> This way, we all made it through these years!
 
 ### The cycle
-There are a few steps before I make my learnings public. I follow them to make the content I create subjective and unique. I also want it to be comfortable to digest and not too boring. Remember, this is a cycle. It starts with putting a new idea into action.
+There are a few steps before sharing my learnings in public. I follow them to make the content I create subjective and unique. I also want it to be easy to digest and not too boring. Remember, this is a cycle. It starts with putting a new idea into action.
 
 <Img src="./the-learn-in-public-cycle.png" alt="Learn in public cycle">
 
@@ -50,12 +50,12 @@ Staying in that cycle helps me to practice my creativity. There's an interesting
 I wish I knew about it earlier! Although, now I understand it and below is the proof that it works.
 
 #### Getting context
-Let's say I want to learn how to present my ideas  clearly.. I really do 🙂 I started thinking of what will be required for it to happen. I listed a few ways I came up with so far:
+Let's say I want to learn how to present my ideas  clearly. I really do 🙂 I started thinking of what would be required for it to happen. I listed a few ways I came up with so far:
 - visual notes taking, by drawing sketchnotes,
 - creating mind maps, by going from a high-level perspective into more detailed ones,
 - making my presentations logical, by talking first about problems, then about solutions (I tend to do the opposite 🤐).
 
-#### Trying it out
+#### Trying things out
 Once I know where to begin, and what are tools I could use, I start playing with them. So far, I've been learning about mind maps. You can try as well — have a glance at [whimsical.com](https://whimsical.com/mind-maps/) examples. The mind map is a simple concept, but if you decide to map a broad idea, you'll end up with a vast diagram. That's where you start seeing how to simplify things!
 
 #### Reflection
@@ -67,9 +67,9 @@ That's the moment I finally have something to share with you. Let's call it [goo
 ### Quick summary
 Below, I present my own list of the most important results to get out of the **learn in public**:
 
-1. A deeper understanding of a particular problem. This is where my future self will be most grateful to my past self. I will have a reviewable archive of my work and all of the things I learned about.
-2. Improving communication channels. I have many ideas. I want to convey them clearly to other people. I don't want these ideas to live only in my mind.
-3. Gaining an audience. I would be happy if anyone found the content I created helpful. It also could be a way to receive feedback on the learnings I share. What's great about this point is that people will come to me (organic traffic), and I don't even have to reach out.
-4. Building capital. What I create under my name, it's mine. I have a long-term vision of creating content by taking small steps and repeating them over time.
+1. **A deeper understanding of a particular problem.** This is where my future self will be most grateful to my past self. I will have a reviewable archive of my work and all of the things I learned about.
+2. **Improving communication channels.** I have many ideas. I want to convey them clearly to other people. I don't want these ideas to live only in my mind.
+3. **Gaining an audience.** I would be happy if anyone found the content I created helpful. It also could be a way to receive feedback on the learnings I share. What's great about this point is that people will come to me (organic traffic), and I don't even have to reach out.
+4. **Building capital.** What I create under my name, it's mine. I have a long-term vision of creating content by taking small steps and repeating them over time.
 
 <em class="highlight">I'm in the cycle!</em>
