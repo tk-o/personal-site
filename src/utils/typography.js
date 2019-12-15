@@ -16,6 +16,9 @@ Wordpress2016.overrideThemeStyles = () => {
     'main p': {
       textAlign: `justify`,
     },
+    '.gatsby-resp-image-wrapper + p': {
+      marginTop: '2rem',
+    }
   }
 }
 
