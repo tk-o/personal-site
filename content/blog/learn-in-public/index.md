@@ -1,6 +1,6 @@
 ---
 title: Learn in public
-date: 2019-12-08
+date: 2019-12-16
 description: Let others see and benefit from your experience — take notes, make them public. Learn better by communicating your findings with others.
 featuredImage: ./learn-in-public-masthead.png
 featuredImageDescription: People taking notes together
