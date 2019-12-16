@@ -66,6 +66,8 @@ Thanks to the mind mapping experience, I noticed that I tend to go into the deta
 #### Go live!
 That's the moment I finally have something to share with you. Let's call it [good enough stage](/is-perect-really-good/) ✓ I hope the things I wrote above prove the cycle I'm talking about in this section. I feel really great about finding new ways to form my thoughts and make them available on this blog.
 
+[Here's my space where I share my learnings in details.](https://gist.github.com/tk-o/public) I also encourage you to have a glance on what's happening on Twiter  [#LearnInPublic](https://twitter.com/search?q=%23LearnInPublic). It a nice motivation to start leraning in public, so consider it 🙃
+
 ### Quick summary
 Below, I present my own list of the most important results to get out of the **learn in public**:
 
