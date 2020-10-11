@@ -5,7 +5,7 @@ module.exports = {
     description: `Learn how to create value and make life easier for yourself. Increase your skillset and start making money from being more productive.`,
     siteUrl: `https://www.kopacki.net`,
     social: {
-      twitter: `tomasz_kopacki`,
+      twitter: `0xTko`,
     },
   },
   plugins: [
