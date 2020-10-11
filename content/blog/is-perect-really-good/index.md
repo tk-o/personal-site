@@ -75,7 +75,7 @@ In my personal life, what I think works well for me is not watching TV (my **Won
 
 <h3 id="80/20-by-tko">80/20</h3>
 
-No, it won't be about the [Pareto rule](https://en.wikipedia.org/wiki/Pareto_principle) I'd like to share my favourite principle: **80/20 by [TKO](https://twitter.com/tomasz_kopacki)** 🙃
+No, it won't be about the [Pareto rule](https://en.wikipedia.org/wiki/Pareto_principle) I'd like to share my favourite principle: **80/20 by [TKO](https://twitter.com/0xTko)** 🙃
 
 > If you feel you’re facing some hard-to-achieve challenge, try thinking on how to break it into smaller, actionable tasks. Then, aim to complete 80% of the most critical tasks. The remaining 20% either will not be that relevant (and you’ll do them later) or turn out to be not required anymore.
 
