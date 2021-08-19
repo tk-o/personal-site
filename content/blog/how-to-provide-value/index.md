@@ -1,7 +1,7 @@
 ---
 title: What is value and how to provide it?
 date: 2019-11-09T10:01:07.341Z
-description: You can be successful in whatever you do, until it produces value for someone.
+description: You can be successful in whatever you do until it produces value for someone.
 featuredImage: ./stanislav-kondratiev-MdexOj4D-MU-unsplash.jpg
 featuredImageDescription: A plant growing on desert - a symbol of making someting out of nothig
 ---
